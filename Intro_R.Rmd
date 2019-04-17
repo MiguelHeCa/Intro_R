@@ -1,0 +1,125 @@
+---
+title: "Introducción a R"
+author: "Miguel Hernández"
+date: "15 de abril de 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Primeros pasos
+
+Analizar datos se está convirtiendo en algo esencial para casi todas las profesiones, por lo que muchas personas busquen cada vez más cómo trabajar con datos. Para ello existen muchísimas herramientas que ayudan a extraer información que necesitemos. De entre todas estas opciones, R resalta por ser veloz, preciso y con paquetes que lo convierten en una herramienta muy poderosa. Sin embargo, si no estás familiarizado con la programación, aprender R puede ser un verdadero dolor de cabeza y no serías el único en pensarlo. Se suele decir que *R simplifica las cosas difíciles, pero dificulta las cosas fáciles*. Es por esto que en tacos de datos te brindaremos con toda la información que necesitas para utilizar R como un profesional.
+
+R cuenta con una de las comunidades más activas y amigables en las que es muy fácil encontrar tutoriales y ayuda en general. Sin embargo, casi todo está en inglés. Esta introducción no requiere que sepas inglés, pero dado que R está programado en este idioma al final el spanglish será inevitable. 
+
+Finalmente, este tutorial está dirigido principalmente a personas que nunca han trabajo con lenguajes de programación y que les interesa conocer cómo usar esta herramienta. Aunque si ya has trabajado con Python, Mathematica o MATLAB, también podrías encontrar aquí referencias útiles.
+
+Como mencionamos antes, el gran poder de R reside en sus paquetes. Aunque te mostraremos los elementos básicos nativos de R, nos enfocaremos al final con la paquetería `tidyverse` desarrollada por [Hadley Wickham](http://hadley.nz/), la cual facilita muchísimo trabajar con R.
+
+## Antes de empezar
+
+### Instalación
+
+#### CRAN
+
+#### RStudio
+
+### Funcionamiento
+
+#### Consola
+
+#### Script
+
+### Elementos básicos
+
+#### Operadores aritméticos
+
+#### Variables
+
+#### Tipos de datos básicos
+
+##### Numéricos
+
+##### Caracteres
+
+##### Lógicos
+
+##### Fechas
+
+##### Reservados
+
+#### Clases
+
+#### Vectores
+
+#### Matrices
+
+#### Data frames
+
+#### Listas
+
+### Operadores lógicos
+
+### Programación funcional
+
+#### bucles
+
+#### funciones
+
+### Paquetes
+
+#### Instalación
+
+#### Carga
+
+### Tidyverse
+
+#### La idea del orden
+
+### Importar datos
+
+#### readr
+
+##### read_csv
+
+##### read_tsv
+
+### Manipular datos
+
+#### dplyr
+
+##### filter
+
+##### arrange
+
+##### mutate
+
+##### group_by + summarize
+
+##### count
+
+### Más manipulación
+
+#### tidyr
+
+##### gather
+
+##### spread
+
+##### joins
+
+### Visualizar datos
+
+#### ggplot2
+
+### Exportar datos
+
+#### readr
+
+### Más allá de tidyverse
+
+### Consideraciones finales
+
