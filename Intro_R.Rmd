@@ -51,6 +51,10 @@ Como mencionamos antes, el gran poder de R reside en sus paquetes. Aunque te mos
 
 ##### Reservados
 
+### Operadores lógicos
+
+## Estructura de datos
+
 #### Clases
 
 #### Vectores
@@ -61,9 +65,8 @@ Como mencionamos antes, el gran poder de R reside en sus paquetes. Aunque te mos
 
 #### Listas
 
-### Operadores lógicos
 
-### Programación funcional
+## Programación funcional
 
 #### bucles
 
@@ -71,11 +74,11 @@ Como mencionamos antes, el gran poder de R reside en sus paquetes. Aunque te mos
 
 ### Paquetes
 
-#### Instalación
+### Instalación
 
-#### Carga
+### Carga
 
-### Tidyverse
+## Tidyverse
 
 #### La idea del orden
 
