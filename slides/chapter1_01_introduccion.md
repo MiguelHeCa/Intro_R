@@ -4,7 +4,7 @@ type: slides
 
 # Introducción
 
-Notes: Analizar datos se está convirtiendo en algo esencial para casi todas las profesiones, por lo que muchas personas busquen cada vez más cómo trabajar con datos. Para ello existen muchísimas herramientas que ayudan a extraer información que necesitemos. De entre todas estas opciones, R resalta por ser veloz, preciso y con paquetes que lo convierten en una herramienta muy poderosa. Sin embargo, si no estás familiarizado con la programación, aprender R puede ser un verdadero dolor de cabeza y no serías el único en pensarlo. Se suele decir que *R simplifica las cosas difíciles, pero dificulta las cosas fáciles*. Es por esto que en tacos de datos te brindaremos con toda la información que necesitas para utilizar R como un profesional.
+Notas: Analizar datos se está convirtiendo en algo esencial para casi todas las profesiones, por lo que muchas personas busquen cada vez más cómo trabajar con datos. Para ello existen muchísimas herramientas que ayudan a extraer información que necesitemos. De entre todas estas opciones, R resalta por ser veloz, preciso y con paquetes que lo convierten en una herramienta muy poderosa. Sin embargo, si no estás familiarizado con la programación, aprender R puede ser un verdadero dolor de cabeza y no serías el único en pensarlo. Se suele decir que *R simplifica las cosas difíciles, pero dificulta las cosas fáciles*. Es por esto que en tacos de datos te brindaremos con toda la información que necesitas para utilizar R como un profesional.
 
 R cuenta con una de las comunidades más activas y amigables en las que es muy fácil encontrar tutoriales y ayuda en general. Sin embargo, casi todo está en inglés. Esta introducción no requiere que sepas inglés, pero dado que R está programado en este idioma al final el spanglish será inevitable.
 
@@ -27,7 +27,7 @@ print("Hola mundo", quote = FALSE)
   elements.
 - This is another bullet point.
 
-Notes: Al utilizar R, tu interfaz se verá algo similar a lo que ves en la presentación. La consola se puede utilizar de dos formas: directamente o a través de un script. En cualquiera de los casos podrás escribir vectores, funciones que la máquina procesará, así como comentarios para que el usuario (tú o alguien más) deba saber la lógica de lo que estás haciendo. Estos comentarios inician con el símbolo `#` solamente "imprimirán" el resultado, sin hacer ninguna otra acción. 
+Notas: Al utilizar R, tu interfaz se verá algo similar a lo que ves en la presentación. La consola se puede utilizar de dos formas: directamente o a través de un script. En cualquiera de los casos podrás escribir vectores, funciones que la máquina procesará, así como comentarios para que el usuario (tú o alguien más) deba saber la lógica de lo que estás haciendo. Estos comentarios inician con el símbolo `#` solamente "imprimirán" el resultado, sin hacer ninguna otra acción. 
 
 En cualquier otro caso, R interpretará cualquier caracter como una instrucción para que ejecute algo. Por ejemplo, la función `print()` mostrará lo que pongamos dentro de esa función. En este caso, le diremos a la computadora que imprima `Hola mundo` en la consola. 
 
@@ -42,7 +42,7 @@ Esta función no hace mucho, pero R está lleno de otras opciones que lo convier
 print("Hola mundo", quote = FALSE)
 ```
 
-Notes: Aunque en este tutorial no necesitarás instalar nada, puedes hacer dar tus propios pasos al instalar R en tu computadora. Además, te recomendamos ampliamente utilizar **RStudio**.
+Notas: Aunque en este tutorial no necesitarás instalar nada, puedes hacer dar tus propios pasos al instalar R en tu computadora. Además, te recomendamos ampliamente utilizar **RStudio**.
 
 R:
 - Ve al sitio [CRAN](https://cran.r-project.org/).
