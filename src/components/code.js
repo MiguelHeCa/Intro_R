@@ -117,7 +117,7 @@ class CodeBlock extends React.Component {
                                     debug={debug}
                                     actions={({ runCode }) => (
                                         <>
-                                            <Button onClick={() => runCode()}>Run Code</Button>
+                                            <Button onClick={() => runCode()}>Ejecutar Código</Button>
                                             {testFile && (
                                                 <Button
                                                     variant="primary"
@@ -127,7 +127,7 @@ class CodeBlock extends React.Component {
                                                         )
                                                     }
                                                 >
-                                                    Submit
+                                                    Enviar
                                                 </Button>
                                             )}
                                         </>
