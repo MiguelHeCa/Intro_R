@@ -15,7 +15,7 @@
         "kernelType": "ir",
         "debug": false
     },
-    "showProfileImage": true,
+    "showProfileImage": false,
     "footerLinks": [
         { "text": "Sitio web", "url": "https://tacosdedatos.com/" },
         { "text": "Fuente", "url": "https://github.com/MiguelHeCa/Intro_R" },
