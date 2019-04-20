@@ -22,19 +22,19 @@ Let's ask some questions about the slides. Whats the correct answer?
 <choice>
 <opt text="Respuesta uno">
 
-This is not the correct answer.
+Esta no es la respuesta correcta.
 
 </opt>
 
 <opt text="Respuesta dos" correct="true">
 
-Good job!
+¡Bien hecho!
 
 </opt>
 
 <opt text="Respuesta tres">
 
-This is not correct either.
+Esta tampoco está bien.
 
 </opt>
 </choice>
