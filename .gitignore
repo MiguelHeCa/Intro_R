@@ -1,5 +1,11 @@
 .vscode
 
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
 # Logs
 logs
 *.log
@@ -74,5 +80,4 @@ yarn-error.log
 .Rhistory
 .Rapp.history
 
-# RStudio files
-.Rproj.user/
+
