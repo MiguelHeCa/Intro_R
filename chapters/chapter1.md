@@ -1,39 +1,38 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Capítulo 1: Lo básico de R'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'En este capítulo te daremos una breve reseña de R y te mostraremos los conceptos básicos más importantes que utilizarás al trabajar con datos.'
 prev: null
 next: /chapter2
 type: chapter
 id: 1
 ---
 
-<exercise id="1" title="Introduction" type="slides">
+<exercise id="1" title="Introducción" type="slides">
 
-<slides source="chapter1_01_introduction">
+<slides source="chapter1_01_introduccion">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="2" title="Empezando">
 
 Let's ask some questions about the slides. Whats the correct answer?
 
 <choice>
-<opt text="Answer one">
+<opt text="Respuesta uno">
 
 This is not the correct answer.
 
 </opt>
 
-<opt text="Answer two" correct="true">
+<opt text="Respuesta dos" correct="true">
 
 Good job!
 
 </opt>
 
-<opt text="Answer three">
+<opt text="Respuesta tres">
 
 This is not correct either.
 
@@ -42,7 +41,7 @@ This is not correct either.
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="3" title="Primeros pasos">
 
 This is a code exercise. The content can be formatted in simple Markdown – so
 you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
@@ -54,7 +53,7 @@ the one for the instructions below.
 
 <codeblock id="01_03">
 
-This is a hint.
+Esto es una pista
 
 </codeblock>
 
