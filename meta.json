@@ -3,7 +3,7 @@
     "title": "Curso de introducción a R",
     "slogan": "Aprende con tacos de datos",
     "description": "En este curso aprenderás a utilizar R desde cero. Aquí te mostraremos todo lo que necesitas para poder manipular, descargar, exportar, visualizar y analizar datos.",
-    "bio": "El lenguaje R ofrece una poderosa gama de herramientas hechas para la ciencia de datos, pero aprenderlo a usar puede ser difícil sin la guía adecuada.",
+    "bio": "tacos de datos es tu sitio para aprender visualización y ciencia de datos, en tu idioma.",
     "siteUrl": "https://course-starter-r.netlify.com",
     "twitter": "tacosdedatos",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
@@ -17,9 +17,9 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://tacosdedatos.com/" },
-        { "text": "Source", "url": "https://github.com/MiguelHeCa/Intro_R" },
-        { "text": "Built with ♥", "url": "https://github.com/MiguelHeCa/Intro_R" }
+        { "text": "Sitio web", "url": "https://tacosdedatos.com/" },
+        { "text": "Fuente", "url": "https://github.com/MiguelHeCa/Intro_R" },
+        { "text": "Hecho con 🌮", "url": "https://github.com/MiguelHeCa/Intro_R" }
     ],
     "theme": "#de7878"
 }
