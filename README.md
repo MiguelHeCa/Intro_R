@@ -240,6 +240,8 @@ A multiple-choice option.
 
 ### Setting up Binder
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MiguelHeCa/Intro_R/binder)
+
 The [`requirements.txt`](binder/requirements.txt) in the repository defines the
 packages that are installed when building it with Binder. You can specify the
 binder settings like repo, branch and kernel type in the `"juniper"` section of
