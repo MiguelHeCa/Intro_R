@@ -1,49 +1,0 @@
-[0m[0K]0;:/c/Users/jmhc/Documents/proyectos/Intro_R[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25h[?25l
-[0K[?25h[0;31m??[0m .gitignore[0K[?25l
-[0;31m??[0m Intro_R.Rmd[0K
-[0;31m??[0m Intro_R.Rproj[0K
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hu[0K[?25l
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git r[0K[?25he[0Ks[0Ke[0Kt[0K[13G[?25l$ git reset -[0K[?25h-[0K[16G[?25l$ git reset -- I[0K[?25hn[0Kt[0Kr[0Ko[0K.[0K[?25l$ git reset -- Intro[0K[?25h_[0KR[0K.[0KR[0Km[0Kd[0K[?25l
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25h[?25l
-[0K[?25h[0;31m??[0m .gitignore[0K[?25l
-[0;31m??[0m Intro_R.Rmd[0K
-[0;31m??[0m Intro_R.Rproj[0K
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0K[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[?25l$ git ad[0K[?25h[?25l$ git a[0K[9G[?25h[8G[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[11G[?25h[12G[?25l
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25h[?25l
-[0K[?25h[0;32mA[0m  .gitignore[0K[?25l
-[0;32mA[0m  Intro_R.Rmd[0K
-[0;32mA[0m  Intro_R.Rproj[0K
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git o[0K[?25hc[0K[?25l$ git o[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[7G[?25h[8G[?25l$ git co[0K[?25hm[0Km[0Kt[0Ki[0K[?25l$ git commt[0K[?25h[?25l$ git comm[0K[?25hi[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hA[0K[?25l$ git commit -m "[0K[?25hAS[0K[?25l$ git commit -m "A[0K[?25h[?25l$ git commit -m "[0K[?25hS[0Kp[0Ke[0Kc[0Ki[0Kf[0K[?25l$ git commit -m "Speci[0K[?25h[?25l$ git commit -m "Spec[0K[?25h[?25l$ git commit -m "Spe[0K[?25h[?25l$ git commit -m "Sp[0K[?25h[?25l$ git commit -m "S[0K[?25h[?25l$ git commit -m "[0K[?25hM[0Ka[0Kk[0Ki[0Kn[0Kg[0K[25G[?25l$ git commit -m "Making s[0K[?25hy[0Kl[0Kl[0Ka[0Kb[0Kl[0Ke[0K[?25l$ git commit -m "Making syllabl[0K[?25h[?25l$ git commit -m "Making syllab[0K[?25hu[0Ks[0K"[0K[?25l$ git commit -m "Making syllabus[0K[?25h[?25l$ git commit -m "Making syllabu[0K[?25h[?25l$ git commit -m "Making syllab[0K[?25h[?25l$ git commit -m "Making sylla[0K[?25h[?25l$ git commit -m "Making syll[0K[?25h[?25l$ git commit -m "Making syl[0K[?25h[?25l$ git commit -m "Making sy[0K[?25h[?25l$ git commit -m "Making s[0K[?25h[?25l$ git commit -m "Making[0K[?25h[?25l$ git commit -m "Makin[0K[?25h[?25l$ git commit -m "Maki[0K[?25h[?25l$ git commit -m "Mak[0K[?25h[?25l$ git commit -m "Ma[0K[?25h[?25l$ git commit -m "M[0K[?25h[?25l$ git commit -m "[0K[?25hW[0Ki[0Kr[0K[?25l$ git commit -m "Wi[0K[?25h[?25l$ git commit -m "W[0K[?25hr[0Ki[0Kt[0Ki[0Kn[0Kg[0K[26G[?25l$ git commit -m "Writing s[0K[?25hy[0Kl[0Kl[0Ka[0Kb[0Ku[0Ks[0K"[0K[?25l
-[0K[?25h[master efd1dd9] Writing syllabus[0K[?25l
- 3 files changed, 142 insertions(+)[0K
- create mode 100644 .gitignore[0K
- create mode 100644 Intro_R.Rmd[0K
- create mode 100644 Intro_R.Rproj[0K
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[?25l$ git commit -[0K[?25h[?25l$ git commit[0K[14G[?25h[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25hEnumerating objects: 6, done.[0K[?25l
-Counting objects: 100% (6/6), done.[0K
-Delta compression using up to 4 threads.[0K
-Compressing objects: 100% (4/4), done.[0K
-Writing objects: 100% (5/5), 1.90 KiB | 647.00 KiB/s, done.[0K
-Total 5 (delta 0), reused 0 (delta 0)[0K
-[0K[?25hTo https://github.com/MiguelHeCa/Intro_R.git[0K[?25l
-   2ea3a4c..efd1dd9  master -> master[0K
-[0K[?25h[?25l
-[0;32mjmhc@JMHC [0;35m [0;33m~/Documents/proyectos/Intro_R[0;36m (master)[0m[0K
-$[0K[3G[?25h
